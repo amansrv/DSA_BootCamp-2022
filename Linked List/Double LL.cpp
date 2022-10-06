@@ -1,6 +1,6 @@
-// INSERTION OF NODE AT: Different Postition of Double LL
-// Insertion of Node at Head in DLL
+// INSERTION OF NODE AT: Different Postitions in a Double LL
 
+//A. Insertion of Node at Head in DLL
 #include <iostream>
 using namespace std;
 
